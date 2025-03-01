@@ -86,9 +86,7 @@ Created an end-to-end analysis pipeline combining SQL for data extraction and Py
 ## 📈 GitHub Stats & Analytics  
 
 🔥 *GitHub Contributions & Activity*  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryankumar120&show_icons=true&theme=react" alt="GitHub Stats" />
-</p>
+![jaya17op's Stats](https://github-readme-stats.vercel.app/api?username=jaya17op&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 🚀 *Top Languages Used*  
 <p align="center">
