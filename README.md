@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
+<h1 align="center">Hi 👋, I'm Jayadhar </h1>
 <h3 align="center">Data Analyst & AI/ML Specialist | Turning Complex Data into Business Solutions 🚀</h3>
 
 <p align="center">
