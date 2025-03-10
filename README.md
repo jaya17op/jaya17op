@@ -116,7 +116,3 @@ Created an end-to-end analysis pipeline combining SQL for data extraction and Py
 <a href="https://www.codechef.com/users/aryannkr120" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" /></a>
 </p>
 
----
-
-💡 *Let's collaborate on your next data-driven initiative*  
-📬 *Contact me today → [aryannkr120@gmail.com](mailto:aryannkr120@gmail.com)*
