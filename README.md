@@ -26,7 +26,7 @@
 🌐 *Collaborated with cross-functional teams to deliver end-to-end data solutions*  
 🏆 *Recognized for developing innovative visualization techniques for complex datasets*  
 
-📩 *Ready to solve your data challenges → [aryannkr120@gmail.com](mailto:aryannkr120@gmail.com)*  
+📩 *Ready to solve your data challenges → [jayadhar2018@gmail.com](mailto:jayadhar2018@gmail.com)*  
 
 ---
 
@@ -72,14 +72,14 @@
 
 ## 🏆 Featured Projects
 
-### *Blinkit Dashboard*
-Engineered a comprehensive Power BI dashboard for Blinkit's delivery metrics, reducing reporting time by 70% and enabling real-time performance optimization of delivery operations.
+### *Eazchat - Chatting application*
+The ultimate chatting companion built using MERN stack with WebSockets integration for real-time communication. Experience seamless connectivity through an intuitive user interface. Eaz-Chat is a catalyst for meaningful connections, productive communication, and empowering you to communicate effortlessly, anytime, anywhere.
 
-### *Hospital Emergency Room Dashboard*
-Developed an interactive visualization system that tracks patient flow, wait times, and resource allocation, helping hospital administrators reduce average ER wait times by 25%.
+### *News-Portal*
+Developed a news portal for seamless headlines and news
 
-### *E-commerce Data Analysis (Python & SQL)*
-Created an end-to-end analysis pipeline combining SQL for data extraction and Python for statistical modeling, uncovering customer purchasing patterns that increased conversion rates by 18%.
+### *Info-Hub*
+InfoHub aims to cultivate a community for learning, understanding, and respectful interaction. Users share insights on personal experiences, current events, and complex issues. With features like nested comments, notifications, and real-time search, InfoHub ensures a seamless and enriching digital dialogue experience. Join us in redefining
 
 ---
 
@@ -100,19 +100,9 @@ Created an end-to-end analysis pipeline combining SQL for data extraction and Py
 
 ---
 
-## 🎓 Certifications
-
-- Microsoft Certified: Data Analyst Associate (Power BI)
-- Career Essentials in Data Analysis by Microsoft and LinkedIn
-
----
-
 ## 💼 Connect with Me  
 
 <p align="left">
-<a href="https://www.linkedin.com/in/aryan-kumar29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://www.kaggle.com/aryankumar120" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" height="40" width="40" /></a>
-<a href="https://medium.com/@aryannkr120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/aryannkr120" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/p-jayadhar-reddy-a1aa48258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
 </p>
 
