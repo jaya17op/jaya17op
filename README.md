@@ -32,34 +32,9 @@ Developed a news portal for seamless headlines and news
 ### *Info-Hub*
 InfoHub aims to cultivate a community for learning, understanding, and respectful interaction. Users share insights on personal experiences, current events, and complex issues. With features like nested comments, notifications, and real-time search, InfoHub ensures a seamless and enriching digital dialogue experience. Join us in redefining
 
----
-
-## 📈 GitHub Stats & Analytics  
-
-🔥 *GitHub Contributions & Activity*  
-![jaya17op's Stats](https://github-readme-stats.vercel.app/api?username=jaya17op&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-🚀 *Top Languages Used*  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaya17op&show_icons=true&theme=react&layout=compact" alt="Top Languages" />
-</p>
-
-⚡ *Streak Stats*  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaya17op&theme=react" alt="Streak Stats" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaya17op/jaya17op/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaya17op/jaya17op/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/jaya17op/jaya17op/output/github-snake.svg" />
 </picture>
-
----
-
-## 💼 Connect with Me  
-
-<p align="left">
-<a href="https://www.linkedin.com/in/p-jayadhar-reddy-a1aa48258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-</p>
-
