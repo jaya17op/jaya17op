@@ -49,6 +49,12 @@ InfoHub aims to cultivate a community for learning, understanding, and respectfu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaya17op&theme=react" alt="Streak Stats" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaya17op/jaya17op/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaya17op/jaya17op/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jaya17op/jaya17op/output/github-snake.svg" />
+</picture>
+
 ---
 
 ## 💼 Connect with Me  
