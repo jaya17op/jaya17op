@@ -90,12 +90,12 @@ InfoHub aims to cultivate a community for learning, understanding, and respectfu
 
 🚀 *Top Languages Used*  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryankumar120&show_icons=true&theme=react&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaya17op&show_icons=true&theme=react&layout=compact" alt="Top Languages" />
 </p>
 
 ⚡ *Streak Stats*  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankumar120&theme=react" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaya17op&theme=react" alt="Streak Stats" />
 </p>
 
 ---
