@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 About Me<br>Hi there! I'm Jayadhar, a B.Tech CSE (AI/ML) student at SRM University AP, passionate about building innovative solutions that merge AI, blockchain, and design.<br><br>🔧 I love working on impactful tech projects—from developing decentralized applications (DAOs) to designing sleek user interfaces with Figma, React, and Tailwind CSS.<br>📸 I’m also the co-convenor of the Photography Society, and a creative at heart—often found with a camera in one hand and design tools in the other.<br>🧠 Always curious, I aim to master development beyond a typical degree, constantly learning, exploring new tech stacks, and contributing to open-source.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=govindmohan0&label=Profile%20views&color=0e75b6&style=flat" alt="govindmohan0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaya17op&label=Profile%20views&color=0e75b6&style=flat" alt="jaya17op" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jayadhar_.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-jayadhar-reddy-a1aa48258/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayadhar2018@gmail.com) 
